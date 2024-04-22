@@ -13,7 +13,7 @@
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SudoR2spr/text-leech-bot)
 
-## vars.py [vars.py](https://github.com/SudoR2spr/txt-leech-bot/blob/main/modules/vars.py)
+## vars.py [vars.py](https://github.com/ojhaakkio/txt-leech-bot/blob/main/modules/vars.py)
 
 * `BOT_TOKEN`  - Get Bot Token From @BotFather
 
